@@ -1,13 +1,11 @@
 ---
-layout: "$/layouts/post.astro"
-title: "Test"
-description: "test"
-tags: [ "test" ]
-author: "pwed"
-date: "2022-08-30"
+layout: $/layouts/post.astro
+title: Page Title
+description: This is a post from netlify
+tags:
+  - test
+author: pwed
+authorTwitter: "@GenuinePwed"
+date: 2022-08-30
 ---
-# Title
-
-## heading
-
-hello
+Welcome to my netlify site
